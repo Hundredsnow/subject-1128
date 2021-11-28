@@ -79,4 +79,4 @@ FROM
 - ウインドウを左右に並べるには？
 　- 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
 　- そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
-![image](https://user-images.githubusercontent.com/89338401/143733451-b13384a1-976c-41c3-b971-385f6553d411.png)
+![image](https://user-images.githubusercontent.com/89338401/143733477-c27e48e7-9770-4ab0-99c3-00341140a8b4.png)
