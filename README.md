@@ -1,5 +1,6 @@
 # subject-1128
 # windows
+## 画像キャプチャ : WIN + SHIFT + S
 ![image](https://user-images.githubusercontent.com/89338401/143732857-5716d7a2-70e8-4928-a2a9-8305901ec095.png)
 
 **タスクバーを右端をクリックするとデスクトップが表示されます**
@@ -83,3 +84,6 @@ FROM
   - test
     
 ![image](https://user-images.githubusercontent.com/89338401/143733528-0271a468-a6b1-4823-886f-3b777af0ae57.png)
+
+#タスクマネージャー
+### ショートカットキー : CTRL + SHIFT + ESC
