@@ -1,7 +1,7 @@
 # subject-1128
 # windows
 ## 画像キャプチャ : WIN + SHIFT + S
-#(ウインドウのキャプチャ : ALT + SCREEN)
+(ウインドウのキャプチャ : ALT + SCREEN)
 
 ![image](https://user-images.githubusercontent.com/89338401/143732857-5716d7a2-70e8-4928-a2a9-8305901ec095.png)
 
@@ -89,3 +89,8 @@ FROM
 
 # タスクマネージャー
 ### ショートカットキー : CTRL + SHIFT + ESC
+#### ▼ タスクマネージャの詳細で必要な列はプラットホーム
+![image](https://user-images.githubusercontent.com/1501327/143733802-d39c8668-99da-41af-b6e9-9ab342f3a179.png)\
+※ アプリが 32 か 64 かを確認できる
+
+![image](https://user-images.githubusercontent.com/1501327/143733976-162e2e79-1d81-40b4-aa52-9dde6ba06fba.png)
