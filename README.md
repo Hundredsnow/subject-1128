@@ -1,7 +1,7 @@
 # subject-1128
 # windows
 ## 画像キャプチャ : WIN + SHIFT + S
-  (ウインドウのキャプチャ : ALT + SCREEN)
+#(ウインドウのキャプチャ : ALT + SCREEN)
 
 ![image](https://user-images.githubusercontent.com/89338401/143732857-5716d7a2-70e8-4928-a2a9-8305901ec095.png)
 
@@ -83,7 +83,7 @@ FROM
   - 右に置きたいウインドウをドラッグしてデスクトップの右端へ持って行く
   - そうすると、残ったウインドウの一覧が左半分に表示されるので、選択する
   - 境界をマウスで長押しすると黒い移動用の境界用コントロールが現れる
-  - test
+
     
 ![image](https://user-images.githubusercontent.com/89338401/143733528-0271a468-a6b1-4823-886f-3b777af0ae57.png)
 
