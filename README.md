@@ -1,8 +1,7 @@
 # subject-1128
 # windows
 ## 画像キャプチャ : WIN + SHIFT + S
-| (ウインドウのキャプチャ : ALT + PrintSCREEN)| 
-| (ウインドウのキャプチャ : ALT + PrintSCREEN)|  ♥
+(ウインドウのキャプチャ : ALT + PrintSCREEN)
 
 ![image](https://user-images.githubusercontent.com/89338401/143732857-5716d7a2-70e8-4928-a2a9-8305901ec095.png)
 
@@ -112,7 +111,7 @@ FROM
 | :--- | :--- 
 | . | 編集中に絵文字ウィンドウ
 | G | ウィンドウの動画化
-| R | ファイル名を指定して実行
+| V | クリップボードの履歴
 | S | 検索
 | D | デスクトップ
 
