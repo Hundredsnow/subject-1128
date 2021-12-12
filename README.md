@@ -94,3 +94,24 @@ FROM
 ※ アプリが 32 か 64 かを確認できる
 
 ![image](https://user-images.githubusercontent.com/1501327/143733976-162e2e79-1d81-40b4-aa52-9dde6ba06fba.png)
+
+## Windows ロゴ キーのキーボード ショートカット
+
+![image](https://user-images.githubusercontent.com/1501327/145702847-13755607-f7cc-4964-82a9-3d922f6d1e37.png)
+
+| キー | 内容 
+| :--- | :--- 
+| I | 設定
+| E | エクスプローラ
+| R | ファイル名を指定して実行
+| S | 検索
+| D | デスクトップ
+
+| キー | 内容 
+| :--- | :--- 
+| I | 設定
+| E | エクスプローラ
+| R | ファイル名を指定して実行
+| S | 検索
+| D | デスクトップ
+
